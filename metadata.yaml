@@ -1,0 +1,22 @@
+_repo: Young-Engineer-s-Guide_66109
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rohan, J. V.
+    gutenberg_agent_id: '53639'
+    url: http://www.gutenberg.org/2009/agents/53639
+description: ''
+gutenberg_issued: '2021-08-22'
+identifiers:
+  gutenberg: '66109'
+  lccn: '06032051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steam engineering'
+- !lcc 'TJ'
+- GITenberg
+title: Young Engineer's Guide
+url: http://www.gutenberg.org/ebooks/66109
